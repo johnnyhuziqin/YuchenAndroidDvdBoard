@@ -1,6 +1,8 @@
 # YuchenAndroidDvdBoard
 ##The YuchenAndroidDvdBorad is base on Allwinner's A20 chipset with DVD loader supported, can play mkv file with Kodi(Xbmc) player.
 
+![pcb](https://github.com/johnnyhuziqin/YuchenAndroidDvdBoard/blob/master/pcb.jpg)
+
 ###Introdution:
 1. hardware structure
 2. DVD loader, 2x dvd playing speed, 4x cdrom reading.
