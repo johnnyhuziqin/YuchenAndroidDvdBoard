@@ -26,3 +26,6 @@
 20. Miracast receiver, Firewire receiver
 21. Wifi hot spot
 22. cellphone remote control app
+
+for more info, please click this link:
+![system ui](https://github.com/johnnyhuziqin/YuchenAndroidDvdBoard/blob/master/system_ui.md)
