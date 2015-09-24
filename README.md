@@ -28,4 +28,4 @@
 22. cellphone remote control app
 
 for more info, please click this link:
-![system ui](https://github.com/johnnyhuziqin/YuchenAndroidDvdBoard/blob/master/system_ui.md)
+[system ui](https://github.com/johnnyhuziqin/YuchenAndroidDvdBoard/blob/master/system_ui.md)
